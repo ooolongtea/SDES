@@ -1,0 +1,33 @@
+h2 {
+    text-align: center;
+    color: cadetblue;
+}
+
+table {
+    border-collapse: collapse;
+    height: 80px;
+    width: 180px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+tr,
+th {
+    padding: 5px 50px;
+}
+
+table,
+th,
+td {
+    border: 1px solid #000;
+}
+
+#div1 {
+    text-align: center;
+}
+
+
+/* #center {
+    width: 65%;
+    margin: 0 auto;
+} */
